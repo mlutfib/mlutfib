@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there! 👋 I'm Muhammad Luthfi
 
-<!--
-**mlutfib/mlutfib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **Software Engineer** and **Tech Lead** with over **7 years** of experience coding and leading projects in everything from **health startups** to **FinTech**. My go-to languages are **GoLang** and **Node.js**, and I love building cool, scalable apps that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** GoLang, Node.js, PHP, Java
+- **Web Dev:** HTML, CSS, JavaScript, React.js
+- **Databases:** SQL, MongoDB, Redis
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Git, CI/CD pipelines
+- **Work Style:** Agile (Scrum, Kanban)
+
+## 🚀 What I’m Up To
+
+- Building **high-performance apps** and leading dev teams to success
+- Mentoring junior developers and sharing best practices
+- Streamlining projects with **CI/CD** for faster, cleaner deployment
+- Always learning and staying updated with the latest tech
+
+## 💼 Industries I've Worked In
+
+- **Health Startups** (helping build tech that improves lives)
+- **FinTech** (making financial services more accessible and secure)
+- And a bunch of other cool projects!
+
+## 💡 Fun Stuff
+
+I’m passionate about learning new tech and tools, whether it’s through working on personal projects, contributing to open-source, or just experimenting with the latest frameworks. Always up for a challenge and love collaborating with other devs.
+
+## 📫 Get in Touch!
+
+- [LinkedIn](https://www.linkedin.com/in/mlutfib/)  
+- [Email](mailto:mlutfib26@gmail.com)
+
+Feel free to reach out if you want to chat, collaborate, or just talk tech! 😄
