@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a **Software Engineer** and **Tech Lead** with over **
 - **Web Dev:** HTML, CSS, JavaScript, React.js
 - **Databases:** SQL, MongoDB, Redis
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, Git, CI/CD pipelines
-- **Work Style:** Agile (Scrum, Kanban)
 
 ## 🚀 What I’m Up To
 
