@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Muhammad Luthfi
+# Hey there! 👋 I'm Muhammad Lutfi
 
 Welcome to my GitHub! I'm a **Software Engineer** and **Tech Lead** with over **7 years** of experience coding and leading projects in everything from **health startups** to **FinTech**. My go-to languages are **GoLang** and **Node.js**, and I love building cool, scalable apps that solve real-world problems.
 
